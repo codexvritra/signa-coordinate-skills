@@ -1,0 +1,4 @@
+node_modules/
+*.tgz
+.outputs/
+.DS_Store

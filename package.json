@@ -1,0 +1,12 @@
+{
+  "name": "signa-coordinate-skills",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Multi-agent coordination skills for Aeon — broadcast, delegate, and orchestrate across the SIGNA network.",
+  "license": "MIT",
+  "dependencies": {
+    "signa-agent": "^0.1.0",
+    "viem": "^2.21.0"
+  }
+}
