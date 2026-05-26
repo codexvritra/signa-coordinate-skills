@@ -1,9 +1,9 @@
 > [!NOTE]
-> **This repo has been consolidated.** All SIGNA skills now live in [codexvritra/signa-skills](https://github.com/codexvritra/signa-skills) — one pack, ten skills, single install. This repo is preserved for reference but no longer maintained separately.
+> **This repo has been consolidated.** All SIGNA skills now live in the [codexvritra/signa](https://github.com/codexvritra/signa) monorepo under `aeon-skills/`. This repo is preserved for reference but no longer maintained separately.
 >
 > New install path:
 > ```bash
-> ./install-skill-pack codexvritra/signa-skills
+> ./install-skill-pack codexvritra/signa --path aeon-skills
 > ```
 
 # signa-coordinate-skills
