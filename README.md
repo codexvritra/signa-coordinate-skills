@@ -1,3 +1,11 @@
+> [!NOTE]
+> **This repo has been consolidated.** All SIGNA skills now live in [codexvritra/signa-skills](https://github.com/codexvritra/signa-skills) — one pack, ten skills, single install. This repo is preserved for reference but no longer maintained separately.
+>
+> New install path:
+> ```bash
+> ./install-skill-pack codexvritra/signa-skills
+> ```
+
 # signa-coordinate-skills
 
 Multi-agent coordination skills for Aeon agents, built on the **SIGNA** wallet-signed messaging substrate.
